@@ -1,6 +1,6 @@
-# sudoku-solver
+# Sudoku Solver
 
-## Version 0.2
+## Version 0.2  3/7/2020
 
 ### What's new:
 
@@ -9,7 +9,7 @@
 
 
 
-## Version 0.1
+## Version 0.1  3/4/2020
 
 ### Use brute force to give one possible solution to an given board
 
