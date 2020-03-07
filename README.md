@@ -1,5 +1,14 @@
 # sudoku-solver
 
+## Version 0.2
+
+### What's new:
+
+#### 1. It is now Mr. Smart Brute Force (CSP search)
+#### 2. It allows user to select a puzzle before running (HCI Yes!)
+
+
+
 ## Version 0.1
 
 ### Use brute force to give one possible solution to an given board
