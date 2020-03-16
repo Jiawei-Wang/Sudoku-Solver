@@ -1,5 +1,12 @@
 # Sudoku Solver
 
+## Version 0.3  3/16/2020
+
+### What's new:
+
+#### 1. It is now CSP search + Backjumping
+#### 2. It prints out the result in a decent format
+
 ## Version 0.2  3/7/2020
 
 ### What's new:
